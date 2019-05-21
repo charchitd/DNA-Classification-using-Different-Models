@@ -2,10 +2,10 @@
 
 ### You will learn how to:
 
-..* Import data from the UCI repository
-..* Convert text inputs to numerical data
-..* Build and train classification algorithms
-..* Compare and contrast classification algorithms
+"* Import data from the UCI repository
+"* Convert text inputs to numerical data
+"* Build and train classification algorithms
+"* Compare and contrast classification algorithms
 
 
 
